@@ -48,12 +48,12 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://wahyutomo.jasanya.tech/" target="_blank"><img alt="Github" src="" height="30px" /></a> <a href="https://www.linkedin.com/in/wahyutomo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/waahyutomo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="https://www.linkedin.com/in/wahyutomo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/waahyutomo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WahyuTomo14&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuTomo14&" alt="WahyuTomo14" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=WahyuTomo14" alt="GitHub Streak" /></a>
 </div>
