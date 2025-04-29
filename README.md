@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://ibanrmaa.jasanya.tech/)** -->
   
-- My gist **[My Gist](https://gist.github.com/SyaibanAhmadRamadhan)**
+- My gist **[My Gist](https://gist.github.com/WahyuUtomo1414)**
 
 - 🌱 I’m currently learning `PHP, Python`
   
@@ -34,16 +34,16 @@ Here are some ideas to get you started: -->
 <img alt="ci4" src="https://img.shields.io/badge/codeigniter4-ffffff?style=for-the-badge&logo=codeigniter&logoColor=fffff"  height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="flutter" src="https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=61DAFB" height="25px"/>
- <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="postgresql" src="https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=00FFFF" height="25px"/>
 <img alt="mysql" src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=default" height="25px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 <img alt="docker" src="https://img.shields.io/badge/docker-white?style=flat-square&logo=docker" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="niagahoster" src="https://img.shields.io/badge/-niagahoster-430098?style=flat-square&logo=niagahoster&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+<img alt="niagahoster" src="https://img.shields.io/badge/-niagahoster-430098?style=flat-square&logo=niagahoster&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
@@ -53,7 +53,5 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WahyuTomo14&show_icons=true" />
- <img src="https://github-readme-streak-stats.herokuapp.com?user=WahyuTomo14" alt="GitHub Streak" /></a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuUtomo1414&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuUtomo1414&size_weight=0.5&count_weight=0.5)
