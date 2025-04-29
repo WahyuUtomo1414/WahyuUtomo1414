@@ -11,8 +11,6 @@ Here are some ideas to get you started: -->
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://ibanrmaa.jasanya.tech/)** -->
-  
-- My gist **[My Gist](https://gist.github.com/WahyuUtomo1414)**
 
 - 🌱 I’m currently learning `PHP, Python`
   
@@ -54,4 +52,5 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuUtomo1414&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuUtomo1414&size_weight=0.5&count_weight=0.5)
