@@ -51,6 +51,4 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuUtomo1414&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuUtomo1414&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuUtomo1414&layout=compact)
