@@ -1,6 +1,6 @@
 ![sasa](/img/benner.gif)
 
-<h3 align="center">An information system student at Bina Sarana Informatika University</h3>
+<h4 align="center">Semangat Berkembang Sepanjang Masa🔥🚀</h4>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
